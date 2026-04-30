@@ -1,4 +1,17 @@
 {
-  "Name": "SteamOS Borat Edition (stosbe01)",
-  "Author": "Jessica, SteamOS Borat Edition"
+  "KPlugin": {
+    "Name": "SteamOS Borat Edition",
+    "Description": "A wallpaper from the SteamOS Borat Edition theme",
+    "Authors": [
+      {
+        "Name": "Jessica",
+        "Email": ""
+      }
+    ],
+    "License": "CC-BY-SA",
+    "Version": "1.0",
+    "Website": "",
+    "Category": "Gaming",
+    "Id": "stosbe01"
+  }
 }
